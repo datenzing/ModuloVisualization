@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="modulovisualization:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/modulovisualization_jar</output-path>
+    <root id="archive" name="modulovisualization.jar">
+      <element id="module-output" name="modulovisualization" />
+    </root>
+  </artifact>
+</component>

@@ -1,4 +1,4 @@
-Modulo Visualization
+## Modulo Visualization
 
 Start - This button will run the modulo times table visualization.
 Pause - This will pause the running visualization.
